@@ -1,49 +1,49 @@
 {
-  "default": {
+  "The Pizza Company_Merchant": {
     "x": 0,
     "y": 0,
-    "width": 144,
-    "height": 125,
+    "width": 72,
+    "height": 63,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "AKA_Merchant": {
+    "x": 72,
+    "y": 0,
+    "width": 73,
+    "height": 63,
     "pixelRatio": 1,
     "visible": true
   },
   "Chang_Merchant": {
-    "x": 144,
+    "x": 145,
     "y": 0,
-    "width": 144,
-    "height": 125,
+    "width": 72,
+    "height": 63,
     "pixelRatio": 1,
     "visible": true
   },
   "Swensen's_Merchant": {
-    "x": 288,
+    "x": 217,
     "y": 0,
-    "width": 144,
-    "height": 125,
+    "width": 72,
+    "height": 63,
     "pixelRatio": 1,
     "visible": true
   },
   "Dairy Queen_Merchant": {
-    "x": 432,
+    "x": 289,
     "y": 0,
-    "width": 144,
-    "height": 125,
+    "width": 72,
+    "height": 63,
     "pixelRatio": 1,
     "visible": true
   },
-  "aka House_Merchant": {
-    "x": 576,
+  "default": {
+    "x": 361,
     "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "The Pizza Company_Merchant": {
-    "x": 720,
-    "y": 0,
-    "width": 144,
-    "height": 125,
+    "width": 72,
+    "height": 63,
     "pixelRatio": 1,
     "visible": true
   }
