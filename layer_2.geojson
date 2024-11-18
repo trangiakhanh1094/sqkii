@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Brand": "The Pizza Company",
+        "Store name": "The Pizza Company - Aeon Mall Tân Phú",
+        "Address": "TTTM Aeon Mall Tân Phú: Tầng 3, 30 Bờ Bao Tân Thắng, Phường Sơn Kỳ, Quận Tân Phú, Hồ Chí Minh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.61576106748994,
+          10.801314342002382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brand": "The Pizza Company",
+        "Store name": "The Pizza Company - Estella Place",
+        "Address": "TTTM Estella Place: L4-6A-7B, 88 Song Hành, Phường An Phú, Quận 2, Hồ Chí Minh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.74875863865388,
+          10.802305151055757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brand": "The Pizza Company",
+        "Store name": "The Pizza Company - Vincom Thảo Điền",
+        "Address": "TTTM Vincom Thảo Điền: 159 Xa Lộ Hà Nội, Phường Thảo Điền, Quận 2, Hồ Chí Minh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.74229388283406,
+          10.803071518042852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brand": "The Pizza Company",
+        "Store name": "The Pizza Company - Nguyễn Đức Cảnh",
+        "Address": "101 Nguyễn Đức Cảnh, Khu phố Parkview - H19 - 2, Phường Tân Phong, Quận 7, Hồ Chí Minh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70879789632536,
+          10.726365227315526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brand": "The Pizza Company",
+        "Store name": "The Pizza Company - Crescent Mall",
+        "Address": "101 Tôn Dật Tiên, Phường Tân Phú, Quận 7, Hồ Chí Minh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71888382516146,
+          10.729252249839798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brand": "The Pizza Company",
+        "Store name": "The Pizza Company - Phan Xích Long",
+        "Address": "355 Phan Xích Long, Phường 1, Quận Phú Nhuận, Hồ Chí Minh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6832955423583,
+          10.801636035505403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brand": "The Pizza Company",
+        "Store name": "The Pizza Company - Nguyễn Gia Trí (D2)",
+        "Address": "183 Nguyễn Gia Trí, Phường 25, Quận Bình Thạnh, Hồ Chí Minh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71589852516196,
+          10.806327083790793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brand": "Chang",
+        "Store name": "Chang - Lotte Mart Gò Vấp",
+        "Address": "1F-06A, Tầng Trệt, TTTM LOTTE Mart, 242 Nguyễn Văn Lượng, P. 10, Q. Gò Vấp, TP.HCM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67133895388766,
+          10.838109338572211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brand": "Dairy Queen",
+        "Store name": "Dairy Queen - Lotte Gò Vấp",
+        "Address": "TTTM Lotte Mart Gò Vấp: Tầng Trệt, 242 Nguyễn Văn Lượng, Phường 10, Quận Gò Vấp, TP. Hồ Chí Minh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6729549325381,
+          10.83872394944939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brand": "Dairy Queen",
+        "Store name": "Dairy Queen - Estella Place",
+        "Address": "TTTM Estella Place: Tầng 4, Số 88 Song Hành, Phường An Phú, Quận 2, TP. Hồ Chí Minh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.74852723854468,
+          10.802019289348324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brand": "Dairy Queen",
+        "Store name": "Dairy Queen - Crescent Mall",
+        "Address": "TTTM Crescent Mall: Tầng 5, 101 Tôn Dật Tiên, Phường Tân Phú, Quận 7, TP. Hồ Chí Minh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71864635388636,
+          10.728651406830007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brand": "Dairy Queen",
+        "Store name": "Dairy Queen - Aeon Mall Tân Phú",
+        "Address": "TTTM Aeon Mall Tân Phú: Tầng Trệt, Số 30 Đường Tân Thắng, Phường Sơn Kì, Quận Tân Phú, TP. Hồ Chí Minh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.61794776738029,
+          10.801327850597032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brand": "The Pizza Company",
+        "Store name": "The Pizza Company - Co.op Mart Huỳnh Tấn Phát",
+        "Address": "Co.op Mart Huỳnh Tấn Phát: 80/4A Huỳnh Tấn Phát, Phường Phú Mỹ, Quận 7, Hồ Chí Minh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.73642476934144,
+          10.712430742961262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brand": "The Pizza Company",
+        "Store name": "The Pizza Company - Hoàng Hoa Thám",
+        "Address": "10D Hoàng Hoa Thám, Phường 7, Quận Bình Thạnh, Hồ Chí Minh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69174301167006,
+          10.805081207325989
+        ]
+      }
+    }
+  ]
+}
